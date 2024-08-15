@@ -176,6 +176,11 @@ main{
     border: 1px solid #018bfc;
 }
 @media (max-width : 1200px){
+    .cloud{
+        width: 400px;
+        height: 300px;
+        overflow: hidden;
+    }
     .item{
         width: 90%;
     }

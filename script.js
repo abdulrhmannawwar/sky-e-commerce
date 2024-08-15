@@ -62,15 +62,15 @@ clothesSection.addEventListener("click", () => {
 
 //for shoe section
 
-let shoeSources = ['images/shoes/Adidas_NMD_R1-removebg-preview.png',
-    'images/shoes/Adidas_NMD_R2-removebg-preview.png',
-    'images/shoes/New_Balance_2002-removebg-preview.png',
-    'images/shoes/New_Balance_Fresh_Foam_X_1080v12-removebg-preview.png',
-    'images/shoes/New_Balance_Roav_V1-removebg-preview.png',
-    'images/shoes/Nike_Air_Max_Plus_-removebg-preview.png',
-    'images/shoes/Nike_Go_FlyEase_Easy_OnOff-removebg-preview.png',
-    'images/shoes/Puma_RS-X_Reinvention_webp-removebg-preview.png',
-    'images/shoes/Puma_X_Rihanna_Fenty_Bow_-removebg-preview.png'
+let shoeSources = ['Images/shoes/Adidas_NMD_R1-removebg-preview.png',
+    'Images/Shoes/Adidas_NMD_R2-removebg-preview.png',
+    'Images/Shoes/New_Balance_2002-removebg-preview.png',
+    'Images/Shoes/New_Balance_Fresh_Foam_X_1080v12-removebg-preview.png',
+    'Images/Shoes/New_Balance_Roav_V1-removebg-preview.png',
+    'Images/Shoes/Nike_Air_Max_Plus_-removebg-preview.png',
+    'Images/Shoes/Nike_Go_FlyEase_Easy_OnOff-removebg-preview.png',
+    'Images/Shoes/Puma_RS-X_Reinvention_webp-removebg-preview.png',
+    'Images/Shoes/Puma_X_Rihanna_Fenty_Bow_-removebg-preview.png'
 ];
 let shoeItemsNames = ['Adidas NMD R1',
     'Adidas NMD R2',
@@ -91,15 +91,15 @@ shoeSection.addEventListener("click", () => {
 
 //for accessories section
 
-let accessoriesSources = ['images/Accessories/Aidie Check Print Scarf.png',
-    'images/Accessories/Curved Oval Sunglasses.png',
-    'images/Accessories/Geometric Knit Scarf Black.png',
-    'images/Accessories/Isabella Hatinator.png',
-    'images/Accessories/Lace Trim Bucket Hat Natural.png',
-    'images/Accessories/Packable Fedora.png',
-    'images/Accessories/Peggy Pill Box Fascinator Orange.png',
-    'images/Accessories/Small Travel Packing Cube.png',
-    'images/Accessories/Tuna Motif Socks.png'
+let accessoriesSources = ['Images/Accessories/Aidie Check Print Scarf.png',
+    'Images/Accessories/Curved Oval Sunglasses.png',
+    'Images/Accessories/Geometric Knit Scarf Black.png',
+    'Images/Accessories/Isabella Hatinator.png',
+    'Images/Accessories/Lace Trim Bucket Hat Natural.png',
+    'Images/Accessories/Packable Fedora.png',
+    'Images/Accessories/Peggy Pill Box Fascinator Orange.png',
+    'Images/Accessories/Small Travel Packing Cube.png',
+    'Images/Accessories/Tuna Motif Socks.png'
 ];
 
 let accessoriesItemsNames = ['Aidie Check Print Scarf',
@@ -121,15 +121,15 @@ accessoriesSection.addEventListener("click", () => {
 
 //for watches section
 
-let watchesSources = ["images/Watches/Casio_Edifice_EFR-539SG-7AVUE_Men_s_Two_Tone_Stainless_Steel_Bracelet_Watch-removebg-preview.png",
-    "images/Watches/Casio_Edifice_EFV-C110D-1A4VEF_Men_s_Stainless_Steel_Bracelet_Watch-removebg-preview.png",
-    "images/Watches/Citizen_Men_s_Chronograph_Grey_Dial_Two_Tone_Stainless_Steel_Bracelet_Watch-removebg-preview.png",
-    "images/Watches/G-Shock_GA-100CF-1A9ER_Men_s_Camo_Black_Resin_Strap_Watch-removebg-preview.png",
-    "images/Watches/G-Shock_GA-2000-1A9ER_Men_s_Carbon_Core_Black_Resin_Strap_Watch-removebg-preview.png",
-    "images/Watches/Olivia_Burton_Grey_Leather_Strap_Watch___Two_Tone_Bee_Bracelet_Gift_Set-removebg-preview.png",
-    "images/Watches/Radley_Ladies__Series_8_Casis_Purple_Silicone_Strap_Smart_Watch-removebg-preview.png",
-    "images/Watches/Radley_Ladies__Series_8_Vintage_Blue_Silicone_Strap_Smart_Watch-removebg-preview.png",
-    "images/Watches/Sekonda_Maverick_Men_s_Green_Dial_Two_Tone_Stainless_Steel_Bracelet_Watch-removebg-preview.png"    
+let watchesSources = ["Images/Watches/Casio_Edifice_EFR-539SG-7AVUE_Men_s_Two_Tone_Stainless_Steel_Bracelet_Watch-removebg-preview.png",
+    "Images/Watches/Casio_Edifice_EFV-C110D-1A4VEF_Men_s_Stainless_Steel_Bracelet_Watch-removebg-preview.png",
+    "Images/Watches/Citizen_Men_s_Chronograph_Grey_Dial_Two_Tone_Stainless_Steel_Bracelet_Watch-removebg-preview.png",
+    "Images/Watches/G-Shock_GA-100CF-1A9ER_Men_s_Camo_Black_Resin_Strap_Watch-removebg-preview.png",
+    "Images/Watches/G-Shock_GA-2000-1A9ER_Men_s_Carbon_Core_Black_Resin_Strap_Watch-removebg-preview.png",
+    "Images/Watches/Olivia_Burton_Grey_Leather_Strap_Watch___Two_Tone_Bee_Bracelet_Gift_Set-removebg-preview.png",
+    "Images/Watches/Radley_Ladies__Series_8_Casis_Purple_Silicone_Strap_Smart_Watch-removebg-preview.png",
+    "Images/Watches/Radley_Ladies__Series_8_Vintage_Blue_Silicone_Strap_Smart_Watch-removebg-preview.png",
+    "Images/Watches/Sekonda_Maverick_Men_s_Green_Dial_Two_Tone_Stainless_Steel_Bracelet_Watch-removebg-preview.png"    
 ];
 
 let watchesItemsNames = ["Casio Edifice EFR-539SG-7AVUE Men's Two Tone Stainless Steel Bracelet Watch",
@@ -151,15 +151,15 @@ watchesSection.addEventListener("click", () => {
 
 //for electronics section
 
-let electronicsSources = ['images/Electronics/Caseoni_Water_Dispenser_-removebg-preview.png',
-    'images/Electronics/G-Power_WS344_Power_Strip_Surge_Protector-removebg-preview.png',
-    'images/Electronics/Honor_Pad_X9_11.5_Inches-removebg-preview.png',
-    'images/Electronics/Lenovo_Legion_Slim_7-removebg-preview.png',
-    'images/Electronics/MAONO_Gaming_USB_Microphone-removebg-preview.png',
-    'images/Electronics/NexiGo_Vertical_Stand_with_Cooling_Fan-removebg-preview.png',
-    'images/Electronics/SAMSUNG_WASHING_MACHINE-removebg-preview.png',
-    'images/Electronics/Xiaomi_Mi_Box_S-removebg-preview.png',
-    'images/Electronics/Xiaomi_Redmi_VXN4305GL_Power_Bank_10000mAh-removebg-preview.png'
+let electronicsSources = ['Images/Electronics/Caseoni_Water_Dispenser_-removebg-preview.png',
+    'Images/Electronics/G-Power_WS344_Power_Strip_Surge_Protector-removebg-preview.png',
+    'Images/Electronics/Honor_Pad_X9_11.5_Inches-removebg-preview.png',
+    'Images/Electronics/Lenovo_Legion_Slim_7-removebg-preview.png',
+    'Images/Electronics/MAONO_Gaming_USB_Microphone-removebg-preview.png',
+    'Images/Electronics/NexiGo_Vertical_Stand_with_Cooling_Fan-removebg-preview.png',
+    'Images/Electronics/SAMSUNG_WASHING_MACHINE-removebg-preview.png',
+    'Images/Electronics/Xiaomi_Mi_Box_S-removebg-preview.png',
+    'Images/Electronics/Xiaomi_Redmi_VXN4305GL_Power_Bank_10000mAh-removebg-preview.png'
 ];
 
 let electronicsItemsNames = ['Caseoni Water Dispenser',
@@ -182,15 +182,15 @@ electronicsSection.addEventListener("click", () => {
 
 //for home appliances section
 
-let homeAppliancesSources = ['images/Home Appliances/Automatic_American_Coffee_Maker-removebg-preview.png',
-    'images/Home Appliances/Chopper_400_Watt_1_Liter-removebg-preview.png',
-    'images/Home Appliances/Daylight_Bulb_LED_Lamp-removebg-preview.png',
-    'images/Home Appliances/Electric_Blender_250_Watt_1.5_Liter-removebg-preview.png',
-    'images/Home Appliances/Electric_Pot_1.2_Liter_600_Watt-removebg-preview.png',
-    'images/Home Appliances/Kitchen_Ventilating_Fan-removebg-preview.png',
-    'images/Home Appliances/Steam_Iron_2000_Watt_Teflon-removebg-preview.png',
-    'images/Home Appliances/Toaster_2_Slices_700_Watt_White-removebg-preview.png',
-    'images/Home Appliances/Wall_Fan_16_Inch_4_Blades-removebg-preview.png'
+let homeAppliancesSources = ['Images/Home Appliances/Automatic_American_Coffee_Maker-removebg-preview.png',
+    'Images/Home Appliances/Chopper_400_Watt_1_Liter-removebg-preview.png',
+    'Images/Home Appliances/Daylight_Bulb_LED_Lamp-removebg-preview.png',
+    'Images/Home Appliances/Electric_Blender_250_Watt_1.5_Liter-removebg-preview.png',
+    'Images/Home Appliances/Electric_Pot_1.2_Liter_600_Watt-removebg-preview.png',
+    'Images/Home Appliances/Kitchen_Ventilating_Fan-removebg-preview.png',
+    'Images/Home Appliances/Steam_Iron_2000_Watt_Teflon-removebg-preview.png',
+    'Images/Home Appliances/Toaster_2_Slices_700_Watt_White-removebg-preview.png',
+    'Images/Home Appliances/Wall_Fan_16_Inch_4_Blades-removebg-preview.png'
 ];
 
 let homeAppliancesItemsNames = ['Automatic American Coffee Maker',

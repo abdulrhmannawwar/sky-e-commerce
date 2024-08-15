@@ -62,7 +62,7 @@ clothesSection.addEventListener("click", () => {
 
 //for shoe section
 
-let shoeSources = ['Images/shoes/Adidas_NMD_R1-removebg-preview.png',
+let shoeSources = ['Images/Shoes/Adidas_NMD_R1-removebg-preview.png',
     'Images/Shoes/Adidas_NMD_R2-removebg-preview.png',
     'Images/Shoes/New_Balance_2002-removebg-preview.png',
     'Images/Shoes/New_Balance_Fresh_Foam_X_1080v12-removebg-preview.png',

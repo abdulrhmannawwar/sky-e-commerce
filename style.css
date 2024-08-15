@@ -47,7 +47,9 @@ h1,h2,h3,h4,h5,h6,p{
 header{
     padding: 20px 35px;
     background-color: #ffffff2f;
-    position: sticky;
+    position: fixed;
+    box-sizing: border-box;
+    width: 100%;
     top : 0;
     display: flex;
     align-items: center;
@@ -85,6 +87,7 @@ main{
 }
 .itemsChoose{
     text-align: center;
+    margin-top: 96px;
     width: 20%;
     background-color: #9595ef45;
     height: 100%;
@@ -104,6 +107,7 @@ main{
 .items{
     width: 80%;
     height: 700px;
+    margin-top: 50px;
     position: absolute;
     right: 0;
     display: flex;
@@ -178,5 +182,8 @@ main{
     .itemsChoose h1{
         font-size: 12px;
         margin-left: -30px;
+    }
+    body{
+        overflow-x: hidden;
     }
 }

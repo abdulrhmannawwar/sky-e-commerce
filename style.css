@@ -25,6 +25,7 @@ h1,h2,h3,h4,h5,h6,p{
 }
 .logo{
     cursor: pointer;
+    transform: scale(1.5);
 }
 .bigWord{
     color: #0f5792;
@@ -141,6 +142,7 @@ main{
     filter: brightness(.8);
     transition: .3s;
     cursor: pointer;
+    object-fit: cover;
 }
 .itemImg:hover{
     filter: brightness(1);
